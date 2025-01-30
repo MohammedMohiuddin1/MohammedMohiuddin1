@@ -27,11 +27,9 @@ Can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
 
 <div align="center">
   <p style="font-size:20px;">Profile Views</p>
-  
+  <img align="center" src="https://profile-counter.glitch.me/MohammedMohiuddin1/count.svg" />
   <!-- For-the-Badge Style -->
-  <img src="https://komarev.com/ghpvc/?username=MohammedMohiuddin1&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views - For the Badge Style" />
+  
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohammedMohiuddin1/MohammedMohiuddin1/main/wavybar.svg" alt="Animated Wavy Bar" width="100%">
-</div>
+<img align = "center" src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
