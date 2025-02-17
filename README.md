@@ -10,7 +10,7 @@ I am a third-year computer engineering student passionate about exploring the re
 - 💻 Building scalable applications with cloud technologies
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 
-Check out my [coding portfolio!](https://mohammedmohiuddin1.github.io/mohammedmohiuddin/)
+Check out my [coding portfolio!](https://mohammedmohiuddin.com/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedmohiuddin1/)
